@@ -10,7 +10,17 @@
 
 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/LinkedIn_logo_initials.png/32px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/veronica-bermejo-gomez)
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/veronica-bermejo-gomez/" target="_blank" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<br />
+<br />
+
+<div style="max-width: 700px; margin: 0 auto; text-align: justify;">
 
 
 I have just trained as an AI developer where I have specialized in the data scientist stack.   
