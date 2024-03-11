@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/Hi,+I +am +a+data+scientist+with+a+passion+for+data.First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **verobermejo/verobermejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
