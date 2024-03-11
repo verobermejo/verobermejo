@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Verónica.  
 ### I´m from Madrid. :earth_africa:
----
+
 
     
 
@@ -18,8 +18,7 @@ Here I have been able to develop projects that sought to provide AI solutions to
 I invite you to take a look at them.  
 
 
-### Skills
-- Git/Github.  
+### Skills 
 
 - Python, R, Javascript.  
 
