@@ -10,7 +10,7 @@
 
 
 
-
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/LinkedIn_logo_initials.png/32px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/veronica-bermejo-gomez)
 
 
 I have just trained as an AI developer where I have specialized in the data scientist stack.   
