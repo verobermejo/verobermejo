@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Verónica.  
+### Hi there 👋 I´m Verónica Bermejo.
 ### I´m from Madrid. :earth_africa:
 
 
@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/veronica-bermejo-gomez/" target="_blank" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/verónica-bermejo-gómez/" target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
