@@ -1,7 +1,7 @@
+
 ### Hi there 👋 I´m Verónica Bermejo.
 ### I´m from Madrid. :earth_africa:
  
-
 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=909&lines=I+am+a+chemist+passionate+about+data.;My+goal+is+to+contribute+to+the+development+of+technological+innovation...;bringing+science+and+data+together+and+doing+my+bit.)](https://git.io/typing-svg)
@@ -47,7 +47,7 @@ I invite you to take a look at them.
 - Flutterflow.
 
       
-
+<p align="center">
 <a href="https://www.linkedin.com/in/verónica-bermejo-gómez/" target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
